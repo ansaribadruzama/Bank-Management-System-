@@ -22,12 +22,7 @@ Programming Paradigm: Object-Oriented Programming (OOP)
 Bank-Management-System/
 │── main.py
 │── README.md
-▶️ Installation & Setup
-1. Clone the Repository
-git clone https://github.com/your-username/bank-management-system.git
-2. Navigate to the Project Directory
-cd bank-management-system
-3. Run the Application
+
 python main.py
 🎯 Project Objective
 
